@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hemda74
-- 👀 I’m interested in Web Devolpment  
+- 👀 I’m interested in Web Development  
 - 🌱 I’m currently working and 
 - 💞️ I’m looking to collaborate on ...
 - 📫 to reach me ...ahmedashrafhemdan74@gmail.com
