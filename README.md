@@ -64,7 +64,7 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank"> 
+ <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank"> 
     <img src=https://img.shields.io/badge/-ASP.Net-purple?style=for-the-badge&logo=dotnet&logoColor=white"
       alt="dotnet"/> 
   </a>
