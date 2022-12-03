@@ -72,8 +72,8 @@
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
-   <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank"> 
-    <img src=https://img.shields.io/badge/-ASP.Net-purple?style=for-the-badge&logo=dotnet&logoColor=white"alt="dotnet"/> 
+   <a href="https://learn.microsoft.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/-ASP.Net-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/> 
   </a>
 </p>
 
