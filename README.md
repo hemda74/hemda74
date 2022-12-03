@@ -60,10 +60,6 @@
     <img src="https://img.shields.io/badge/-figma%20-white?style=for-the-badge&logo=figma&logoColor=black"
       alt="webpack"/>
   </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank"> 
-    <img src=https://img.shields.io/badge/-ASPDotNet-purple?style=for-the-badge&logo=dotnet&logoColor=white"
-      alt="dotnet"/> 
-  </a>
 </p>
 
 <h3 align="center">Backend</h3>
