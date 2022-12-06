@@ -148,15 +148,6 @@
     </a>
   </div>
 </div>
-<h3 align="center">Reach me</h3>
-<p align="center">
-  <a  href="https://t.me/01121900466" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-  <a href="ahmedashrafhemdan74@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
-  </a>
-</p>
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
 
