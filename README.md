@@ -56,10 +56,6 @@
     <img src="https://img.shields.io/badge/-Next.js-blue?style=for-the-badge&logo=Next.js&logoColor=black"
       alt="webpack"/>
   </a>
-    <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/-figma%20-white?style=for-the-badge&logo=figma&logoColor=black"
-      alt="webpack"/>
-  </a>
 </p>
 
 <h3 align="center">Backend</h3>
@@ -131,6 +127,10 @@
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/-swagger%20-green?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
+  </a>
+      <a href="https://webpack.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/-figma%20-white?style=for-the-badge&logo=figma&logoColor=black"
+      alt="webpack"/>
   </a>
 </p>
 <h3 align="center">Connect with me</h3>
