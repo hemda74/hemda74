@@ -21,6 +21,10 @@
    <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/-python-lightgrey?style=for-the-badge&logo=Python&logoColor=white"
       alt="Python"/>
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -30,10 +34,6 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
