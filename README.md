@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Hemdan <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate Fullstack developer from Egypt.</h3>
+<h3 font-size="20" align="center">A Passionate Fullstack developer from Egypt.</h3>
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank"> 
