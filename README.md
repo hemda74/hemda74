@@ -15,7 +15,7 @@
       alt="typescript"/>
   </a>
    <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-python-lightgrey?style=for-the-badge&logo=Python&logoColor=red"
+    <img src="https://img.shields.io/badge/-python-lightgrey?style=for-the-badge&logo=Python&logoColor=white"
       alt="Python"/>
 </p>
 
