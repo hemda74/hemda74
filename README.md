@@ -63,6 +63,9 @@
    <a href="https://learn.microsoft.com" target="_blank"> 
     <img src="https://img.shields.io/badge/-ASP.Net-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/> 
   </a>
+     <a href="https://learn.microsoft.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/-.NetCore-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/> 
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
