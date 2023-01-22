@@ -66,6 +66,9 @@
      <a href="https://learn.microsoft.com" target="_blank"> 
     <img src="https://img.shields.io/badge/-.NetCore-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/> 
   </a>
+   <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/Restfulapi-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
