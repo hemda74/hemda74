@@ -117,7 +117,6 @@
       alt="docker"/>
   </a>
 </p>
-
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -139,7 +138,6 @@
   </a>
 </p>
 <h3 align="center">Connect with me</h3>
-
 <div style="margin-top:10px" align="center">
   <div>
     <a  href="https://www.linkedin.com/in/ahmed-hemdan-695408201/" target="_blank">
