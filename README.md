@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Hemdan <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A Passionate Software Engineer from Egypt.</h3>
+<h3 font-size="20" align="center">A Passionate Front-End from Egypt.</h3>
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-C%23-green?style=for-the-badge"
-      alt="c#"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
@@ -14,12 +10,7 @@
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
   </a>
-   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-python-lightgrey?style=for-the-badge&logo=Python&logoColor=white"
-      alt="Python"/>
 </p>
-
-<h3 align="center">Frontend</h3>
 <p align="center">
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -53,7 +44,7 @@
       alt="webpack"/>
   </a>
 </p>
-
+[
 <h3 align="center">Backend</h3>
 <p align="center">
    <a href="https://learn.microsoft.com" target="_blank"> 
@@ -77,7 +68,7 @@
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
   </a>
-</p>
+</p>](url)
 
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
