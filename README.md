@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Hemdan <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A Passionate Front-End from Egypt.</h3>
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages & Tools</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
@@ -42,6 +42,9 @@
     <a href="https://webpack.js.org" target="_blank">
     <img src="https://img.shields.io/badge/-Next.js-blue?style=for-the-badge&logo=Next.js&logoColor=black"
       alt="webpack"/>
+  </a>
+  <a href="https://varcel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/varcel-FFCA28.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
   </a>
 </p>
 <h3 align="center">Backend</h3>
