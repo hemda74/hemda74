@@ -49,25 +49,14 @@
    <a href="https://learn.microsoft.com" target="_blank"> 
     <img src="https://img.shields.io/badge/-ASP.Net-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/> 
   </a>
-   <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/Restfulapi-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
      <a href="https://learn.microsoft.com" target="_blank"> 
     <img src="https://img.shields.io/badge/-.NetCore-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/> 
   </a>
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/-Sql%20Server-red?style=for-the-badge&logo=sqlserver&logoColor=white"
       alt="sqlserver"/> 
   </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
-</p>](url)
+</p>
 
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
