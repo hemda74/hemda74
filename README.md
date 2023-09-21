@@ -92,17 +92,9 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/-visual%20studio-yellowgreen?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/-swagger%20-green?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
-  </a>
-      <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/-figma%20-white?style=for-the-badge&logo=figma&logoColor=black"
-      alt="webpack"/>
-  </a>
 </p>
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
