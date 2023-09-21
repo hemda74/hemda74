@@ -1,6 +1,6 @@
-# Hi, I'm Ahmed Hemdan 🥖
+# Hi, It's Ahmed Hemdan 🥖
 
-## Web Developer
+##  I'm a Web Developer
 
 ## 🛠  Technologies and tools
 
