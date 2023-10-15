@@ -1,6 +1,6 @@
 # Hi, It's Ahmed Hemdan
 
-### Innovative Web Developer with over 2 years of experience building and maintaining responsive websites and web applications. Proficient in HTML, CSS, JavaScript, TypeScript, JQuery, Bootstrap, tailwindcss, React.js, Next.js and Redux
+### Innovative Web Developer with over 2 years of experience building and maintaining responsive websites and web applications. 
 ## 🛠  Technologies and tools
 <div>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/> 
