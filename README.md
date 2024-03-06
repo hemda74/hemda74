@@ -45,9 +45,6 @@
     <a href="https://www.linkedin.com/in/ahmed-hemdan-695408201/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://twitter.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
     <a href="https://www.facebook.com/profile.php?id=100009361588650" target="_blank">
       <img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
     </a>
