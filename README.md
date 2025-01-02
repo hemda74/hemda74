@@ -1,6 +1,6 @@
 # Hi, It's Ahmed Hemdan
 
-### innovative Frontend Developer with over 2 years of experience specializing in the creation and maintenance of responsive
+innovative Frontend Developer with over 2 years of experience specializing in the creation and maintenance of responsive
 websites and applications. I possess strong skills in modern JavaScript frameworks and UI/UX design, focusing on delivering usercentered solutions. My commitment to performance optimization and Agile methodologies ensures that I contribute effectively to
 cross-functional teams and deliver project outcomes that align with business goals. . 
 <div>
