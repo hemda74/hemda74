@@ -1,7 +1,8 @@
 # Hi, It's Ahmed Hemdan
 
-With 3+ years of hands-on experience, I specialize in building responsive, high-performance web applications that users love. My passion lies in crafting clean, efficient code that solves real-world problems.
-<div>
+Full-Stack Software Engineer with strong frontend expertise and experience building performant, scalable products across
+ React, Next.js, .Net and SQL Server. Proven track record contributing to mission-critical systems and reducing operational
+ inefficiencies through clean, modular code.
 <!-- 	<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/> 
 	 <img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/> 
 	 <img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/> 
