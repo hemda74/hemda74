@@ -36,5 +36,4 @@ Full-Stack Software Engineer with strong frontend expertise and experience build
     <a href="https://www.linkedin.com/in/ahmed-hemdan-695408201/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-
-	</div>
+</div>
