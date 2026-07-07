@@ -1,8 +1,9 @@
 # Hi, It's Ahmed Hemdan
 
-Full-Stack Software Engineer with strong frontend expertise and experience building performant, scalable products across
- React, Next.js, .Net and SQL Server. Proven track record contributing to mission-critical systems and reducing operational
- inefficiencies through clean, modular code.
+Senior Full-Stack Software Engineer specializing in the .NET ecosystem and modern frontend architectures.
+Demonstrated success in designing resilient, high-availability web applications and APIs utilizing ASP.NET Core,
+Clean Architecture, CQRS, and SQL Server. Adept at steering technical direction, bridging the gap between
+scalable backend systems and responsive React / React Native interfaces to deliver cohesive digital ecosystems
 <!-- 	<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/> 
 	 <img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/> 
 	 <img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/> 
